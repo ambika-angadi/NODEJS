@@ -1,0 +1,15 @@
+Topics covered in the tutorial until now
+What is a web server?
+Difference between web pages, website and search engine?
+What software do I need to build a website?
+How do you upload files to a web server?
+Server-side website programming first steps
+Introduction to the server side
+Client-Server overview
+Server-side web frameworks
+Web security
+Express/Node Introduction
+Setting up a node development environment
+The Local Library website
+Tutorial 2: Creating skeleton website
+Tutorial 3: Using a Database (with Mongoose)
